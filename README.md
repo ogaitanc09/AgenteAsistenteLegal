@@ -100,3 +100,11 @@ GROQ_API_KEY=tu_api_key_aqui
 
 
 ###  Nunca subir este archivo al repositorio.
+
+
+### Pruebas:
+
+<img width="1851" height="832" alt="Captura de pantalla 2025-11-17 155227" src="https://github.com/user-attachments/assets/fc1d3c2a-f9f5-4b40-ad50-ddfa6145c1e0" />
+
+<img width="1814" height="746" alt="Captura de pantalla 2025-11-17 154546" src="https://github.com/user-attachments/assets/8ea533ef-20e9-4718-adde-dc5c789148be" />
+
